@@ -1,7 +1,7 @@
 class WelcomeController < ApplicationController
 
   def index
-    @message = "I dont know what I'm doing. Lol."
+    @message = "Welcome to my fake page for TIY-Indianapolis"
   end
 
   def show
